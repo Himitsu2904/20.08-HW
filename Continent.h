@@ -17,8 +17,6 @@ protected:
 	list<Carnivore *> meat;
 	string name;
 	int area;
-	int n_herb;
-	int n_carn;
 public:
 	Continent()
 	{
